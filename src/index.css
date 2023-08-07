@@ -137,10 +137,7 @@
   min-width: 200px;
 }
 @media only screen and (max-width: 750px) {
-  body {
-    /* background-color: lightblue; */
-
-  }
+ 
   .emoj1{
     margin: auto;
     width: 470px;
